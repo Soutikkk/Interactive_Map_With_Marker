@@ -1,6 +1,7 @@
 # Interactive Map with Marker 🗺️
 
-A simple, lightweight Python project that generates a dynamic, interactive web map with a custom marker using the **Folium** library. The map is centered on New Delhi, India, and includes an interactive marker that displays details upon user interaction.
+A simple, lightweight Python project that generates a dynamic, interactive web map with a custom marker using the **Folium** library. 
+The map is centered on New Delhi, India, and includes an interactive marker that displays details upon user interaction.
 
 ## Features
 - 📍 **Custom Marker:** Places a marker at specific geographic coordinates (New Delhi) with a popup tooltip/label.
